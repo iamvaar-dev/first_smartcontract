@@ -2,6 +2,6 @@
     pragma solidity >=0.7.0 <0.9.0;
 
     contract demo{
-        string public str = "Hey, I am Venkatesh this is my first smart contract";
+        string public str = "Hey, I am Venkatesh this is my second smart contract";
 
     } 
